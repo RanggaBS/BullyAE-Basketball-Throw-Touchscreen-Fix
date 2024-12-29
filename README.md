@@ -6,8 +6,6 @@
 
 [![thumbnail](https://img.youtube.com/vi/nDuWxyyCYnU/maxresdefault.jpg)](https://youtu.be/nDuWxyyCYnU "Bully AE - Basketball Throw Touchscreen Fix")
 
-<a href="https://youtu.be/nDuWxyyCYnU" class="button">Download</a>
-
 ## Description
 
 This mod brings basketball functionality for touchscreen users in Bully
@@ -75,36 +73,3 @@ If you still don't want to install MSR, follow these steps.
 - [GTA IMG Tool (Android)](https://play.google.com/store/apps/details?id=by.lsdsl.gta.imgtool&hl=id)
 
 - [RBS ID YouTube Channel](https://youtube.com/@rbsid)
-
-<!-- ----------------------------------------------------------------------- -->
-<!-- CSS Styles                                                              -->
-<!-- ----------------------------------------------------------------------- -->
-
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
-
-  :root {
-    --tw-yellow-500: #eab308;
-    --tw-yellow-600: #ca8a04;
-  }
-
-  * {
-    font-family: "Inter", serif;
-  }
-
-  .button {
-    background-color: var(--tw-yellow-500);
-    border-radius: 0.25rem;
-    color: white !important;
-    display: inline-block;
-    font-size: 2rem;
-    font-weight: bold;
-    padding: 0.5rem 1.5rem;
-    text-decoration: none !important;
-    transition: background-color 300ms;
-  }
-
-  .button:hover {
-    background-color: var(--tw-yellow-600);
-  }
-</style>
